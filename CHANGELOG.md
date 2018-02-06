@@ -8,3 +8,4 @@
 - fix for sometimes not reporting the hashrate
 - support sol/s hashrate indication from miners
 31/01/2018: 0.8 - regex bugfix
+06/02/2018: 0.9 - ethminer support
